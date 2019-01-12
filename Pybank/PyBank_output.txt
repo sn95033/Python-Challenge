@@ -1,1 +1,6 @@
 Financial Summary
+-------------------------------------------------------------
+The total number of months is 86, from Feb-2010 to Feb-2017
+The total revenue is $38382578
+The month of greatest profitability was $1926159 on Feb-2012
+The month of least profitability was $-2196167 on Sep-2013
